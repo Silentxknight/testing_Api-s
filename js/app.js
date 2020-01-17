@@ -1,5 +1,5 @@
 $(function () { 
-var Pokeurl="http://api.open-notify.org/iss-now.json?callback=CALLBACK";
+var Pokeurl="https://pokeapi.co/api/v2/";
 
 
 console.log(Pokeurl)
